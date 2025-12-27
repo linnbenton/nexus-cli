@@ -197,7 +197,7 @@ following format:
 
 ```json
 {
-   "node_id": "<YOUR NODE ID>"
+   "node_id": "19723130"
 }
 ```
 
